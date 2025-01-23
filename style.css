@@ -1,0 +1,10 @@
+/* ... outras regras CSS anteriores... */
+
+.button-add, .button-draw {
+    background: #0a1938;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
